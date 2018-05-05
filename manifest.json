@@ -1,0 +1,17 @@
+{
+  "name": "Calculate_String_Length",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Get the number of text strings",
+  "icons": {
+    "128": "mz.png"
+  },
+  "browser_action": {
+    "default_title": "Calculate String Length",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
